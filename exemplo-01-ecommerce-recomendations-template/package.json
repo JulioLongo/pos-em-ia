@@ -6,6 +6,7 @@
     "type": "module",
     "scripts": {
         "start": "browser-sync -w . --server --files 'index.html, data/*.json, js/*.js' --port 3000",
+        "start:movies": "node movies-server.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
@@ -16,6 +17,10 @@
     ],
     "author": "",
     "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.0",
+        "pg": "^8.11.0"
+    },
     "devDependencies": {
         "browser-sync": "^3.0.4"
     }

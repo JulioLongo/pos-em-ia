@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Interestelar",
+        "genre": "ficção científica",
+        "year": 2014,
+        "rating": 8.7,
+        "director": "Christopher Nolan"
+    },
+    {
+        "id": 2,
+        "name": "O Cavaleiro das Trevas",
+        "genre": "ação",
+        "year": 2008,
+        "rating": 9.0,
+        "director": "Christopher Nolan"
+    },
+    {
+        "id": 3,
+        "name": "A Origem",
+        "genre": "ficção científica",
+        "year": 2010,
+        "rating": 8.8,
+        "director": "Christopher Nolan"
+    },
+    {
+        "id": 4,
+        "name": "Clube da Luta",
+        "genre": "thriller",
+        "year": 1999,
+        "rating": 8.8,
+        "director": "David Fincher"
+    },
+    {
+        "id": 5,
+        "name": "Rede Social",
+        "genre": "drama",
+        "year": 2010,
+        "rating": 7.7,
+        "director": "David Fincher"
+    },
+    {
+        "id": 6,
+        "name": "Pulp Fiction",
+        "genre": "thriller",
+        "year": 1994,
+        "rating": 8.9,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "id": 7,
+        "name": "Django Livre",
+        "genre": "ação",
+        "year": 2012,
+        "rating": 8.4,
+        "director": "Quentin Tarantino"
+    },
+    {
+        "id": 8,
+        "name": "Gladiador",
+        "genre": "ação",
+        "year": 2000,
+        "rating": 8.5,
+        "director": "Ridley Scott"
+    },
+    {
+        "id": 9,
+        "name": "Alien: O Oitavo Passageiro",
+        "genre": "terror",
+        "year": 1979,
+        "rating": 8.5,
+        "director": "Ridley Scott"
+    },
+    {
+        "id": 10,
+        "name": "Blade Runner",
+        "genre": "ficção científica",
+        "year": 1982,
+        "rating": 8.1,
+        "director": "Ridley Scott"
+    },
+    {
+        "id": 11,
+        "name": "A Lista de Schindler",
+        "genre": "drama",
+        "year": 1993,
+        "rating": 9.0,
+        "director": "Steven Spielberg"
+    },
+    {
+        "id": 12,
+        "name": "Indiana Jones e os Caçadores da Arca Perdida",
+        "genre": "ação",
+        "year": 1981,
+        "rating": 8.4,
+        "director": "Steven Spielberg"
+    },
+    {
+        "id": 13,
+        "name": "E.T. - O Extraterrestre",
+        "genre": "ficção científica",
+        "year": 1982,
+        "rating": 7.9,
+        "director": "Steven Spielberg"
+    },
+    {
+        "id": 14,
+        "name": "O Exterminador do Futuro 2",
+        "genre": "ficção científica",
+        "year": 1991,
+        "rating": 8.6,
+        "director": "James Cameron"
+    },
+    {
+        "id": 15,
+        "name": "Titanic",
+        "genre": "romance",
+        "year": 1997,
+        "rating": 7.9,
+        "director": "James Cameron"
+    },
+    {
+        "id": 16,
+        "name": "Os Bons Companheiros",
+        "genre": "drama",
+        "year": 1990,
+        "rating": 8.7,
+        "director": "Martin Scorsese"
+    },
+    {
+        "id": 17,
+        "name": "O Lobo de Wall Street",
+        "genre": "comédia",
+        "year": 2013,
+        "rating": 8.2,
+        "director": "Martin Scorsese"
+    },
+    {
+        "id": 18,
+        "name": "Táxi Driver",
+        "genre": "thriller",
+        "year": 1976,
+        "rating": 8.3,
+        "director": "Martin Scorsese"
+    },
+    {
+        "id": 19,
+        "name": "O Poderoso Chefão",
+        "genre": "drama",
+        "year": 1972,
+        "rating": 9.2,
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "id": 20,
+        "name": "O Poderoso Chefão II",
+        "genre": "drama",
+        "year": 1974,
+        "rating": 9.0,
+        "director": "Francis Ford Coppola"
+    }
+]

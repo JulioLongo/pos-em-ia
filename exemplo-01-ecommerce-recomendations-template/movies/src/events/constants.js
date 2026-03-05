@@ -1,0 +1,23 @@
+export const events = {
+    userSelected: 'user:selected',
+    usersUpdated: 'users:updated',
+    watchAdded: 'watch:added',
+    watchRemoved: 'watch:removed',
+    modelTrain: 'training:train',
+    trainingComplete: 'training:complete',
+    modelProgressUpdate: 'model:progress-update',
+    recommendationsReady: 'recommendations:ready',
+    recommend: 'recommend',
+    tfvisData: 'tfvis:data',
+    tfvisLogs: 'tfvis:logs',
+}
+
+export const workerEvents = {
+    trainingComplete: 'training:complete',
+    trainModel: 'train:model',
+    recommend: 'recommend',
+    trainingLog: 'training:log',
+    progressUpdate: 'progress:update',
+    tfVisData: 'tfvis:data',
+    tfVisLogs: 'tfvis:logs',
+}
